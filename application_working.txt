@@ -1,0 +1,8 @@
+1) It's a login page which accepts username and password
+2) The authentication is set to these values
+	username=hruday@gmail.com
+	password=hruday123
+	
+	If these are not given, it will alert as 'Authentications fails'
+3) If given right credentials, it will be re-directed to Dashboard page
+4) there is one "Show" button on the screen, if clicked it will show the List of the Employee
