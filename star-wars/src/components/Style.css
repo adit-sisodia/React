@@ -1,0 +1,52 @@
+.box {
+    border: 3px solid lightgray;
+    margin: 40px auto; 
+    width:  500px;
+}
+
+.container {
+  padding: 16px;
+  text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.loginbtn {
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+  
+.logoutbtn {
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+}
+
+li {
+  background-color: yellow;
+  margin: 10px;
+  list-style-type: none;
+  font-weight: bold;
+  width: fit-content;
+  padding: 10px;
+  margin: 10px auto;
+  border-style: double;
+}
